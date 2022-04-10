@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GTNScreenRelay.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HttpPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">45783</Value>
+    </Setting>
+    <Setting Name="ImageFormat" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ImageScaling" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="Bezel650" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Bezel750" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="HideFrame650" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="HideFrame750" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RefreshInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="GtnProcess" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TDSGTNXiFlightSimEXE</Value>
+    </Setting>
+    <Setting Name="GtnWindow750" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TDS GTN750Xi</Value>
+    </Setting>
+    <Setting Name="GtnWindow650" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TDS GTN650Xi</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

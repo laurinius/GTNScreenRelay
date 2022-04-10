@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "CUSTOM",
+  "title": "Screen Relay for TDS GTNXi",
+  "manufacturer": "",
+  "creator": "laurinius",
+  "package_version": "0.2.1",
+  "minimum_game_version": "1.16.2",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

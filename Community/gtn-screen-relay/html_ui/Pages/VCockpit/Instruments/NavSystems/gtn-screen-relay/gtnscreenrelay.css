@@ -1,0 +1,67 @@
+﻿:root {
+  --bodyHeightScale: 1; }
+
+@keyframes TemporaryShow {
+  0%, 100% {
+    visibility: visible; } }
+
+@keyframes TemporaryHide {
+  0%, 100% {
+    visibility: hidden; } }
+
+html {
+  height: 100%;
+  width: 100%;
+  overflow: hidden; }
+  html body {
+    -webkit-user-select: none;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0; }
+
+#highlight {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 10; }
+
+#Electricity {
+  width: 100%;
+  height: 100%; }
+  #Electricity[state=off] {
+    display: none; }
+
+@font-face {
+    font-family: "Roboto-Bold";
+    src: url("/Fonts/RobotoMono-Bold.ttf") format("truetype");
+
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    background-color: black;
+}
+
+gtn-screen-relay-750,
+gtn-screen-relay-650 {
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: black; }
+    
+gtn-screen-relay-750 #Mainframe,
+gtn-screen-relay-650 #Mainframe {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden; }
+
+gtn-screen-relay-750 #Mainframe #gtn-canvas,
+gtn-screen-relay-650 #Mainframe #gtn-canvas {
+    position: absolute;
+    top: 0vh;
+    left: 0vw;
+    width: 100vw;
+    height: 100vh; }

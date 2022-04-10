@@ -8,6 +8,11 @@ There is no interactivity on the screen in the cockpit (meaning it is showing wh
 
 With tuned settings I only have a small performance impact, not more than using any other complex glass gauge screen.
 
+### Important!
+This solution is inferior in almost any ways to the native VC integration of the TDS GTNXi!  
+There is no interactivity and it will not integrate any functionality into the VC beside showing the image of the unit, so no features like the working GSI in the JustFlight planes which you would get with the native VC integration.
+I strongly recommend to only use this mod if your setup relies on using running the TDS GTNXi externaly (like on a separate touchscreen) and popping out the VC gauge does not work for you.
+
 ### Installation
 * Unzip the download
 * Copy the content from the "Community" folder into the MSFS "Community" directory-

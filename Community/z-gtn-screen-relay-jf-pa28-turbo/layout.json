@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/z-gtn-screen-relay-jf-pa28-turbo/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132398945780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/panel/panel.cfg",
+      "size": 3032,
+      "date": 132940574054714223
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/panel/panel.cfg",
+      "size": 3032,
+      "date": 132940574201737426
+    }
+  ]
+}

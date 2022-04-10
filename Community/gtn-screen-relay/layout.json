@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/gtn-screen-relay/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132398945780000000
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/gtn-screen-relay/gtnscreenrelay.css",
+      "size": 1211,
+      "date": 132669393757041975
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/gtn-screen-relay/gtnscreenrelay.js",
+      "size": 2871,
+      "date": 132669408025002539
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/gtn-screen-relay/gtnscreenrelay650.html",
+      "size": 427,
+      "date": 132669393189719714
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/gtn-screen-relay/gtnscreenrelay650.js",
+      "size": 293,
+      "date": 132940570345024637
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/gtn-screen-relay/gtnscreenrelay750.html",
+      "size": 427,
+      "date": 132669409483694988
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/gtn-screen-relay/gtnscreenrelay750.js",
+      "size": 293,
+      "date": 132667620060034031
+    }
+  ]
+}
